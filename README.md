@@ -13,7 +13,7 @@
 <a href="https://raw.githubusercontent.com/coolstavo/coolstavo/main/Gustavo_Costa_Araujo_Resume.pdf">Resume</a> ·
 <a href="mailto:gustavo5556@icloud.com">Email</a>
 
-<img alt="Open to internship" src="https://img.shields.io/badge/open%20to-internship-111827?style=flat&labelColor=111827&color=111827" />
+<img alt="Open tointernship" src="https://img.shields.io/badge/open%20to-internship-111827?style=flat&labelColor=111827&color=111827" />
 <img alt="Focus" src="https://img.shields.io/badge/focus-backend%20%7C%20full--stack-111827?style=flat&labelColor=111827&color=111827" />
 <img alt="Based in Netherlands" src="https://img.shields.io/badge/based%20in-Netherlands-111827?style=flat&labelColor=111827&color=111827" />
 
