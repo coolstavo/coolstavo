@@ -30,5 +30,3 @@
 - **Looking for:** Graduation internship — **Backend / Full‑Stack / Frontend**
 - **Currently:** Intern at **HULO.ai**
 - **Interests:** ML · Frontend Development · Mobile Development · Fullstack Development
-
----
