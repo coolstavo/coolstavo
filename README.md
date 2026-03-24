@@ -15,18 +15,18 @@
 <hr>
 
 <img alt="Open to" src="https://img.shields.io/badge/Open%20To-Internship-111827?style=flat&labelColor=111827&color=111827" />&nbsp;
-<img alt="Focus" src="https://img.shields.io/badge/Backend%20%7C%20Full--stack%20%7C%20Mobile-111827?style=flat&labelColor=111827&color=111827" />&nbsp;
+<img alt="Focus" src="https://img.shields.io/badge/Full--stack%20%7C%20Mobile-111827?style=flat&labelColor=111827&color=111827" />&nbsp;
 <img alt="Based in Netherlands" src="https://img.shields.io/badge/Based%20in-Netherlands-111827?style=flat&labelColor=111827&color=111827" />
 
 <hr>
 
-<b>Looking for:</b> Graduation internship starting <b>September 2026</b>
+<b>Looking for:</b> Graduation internship starting <b>September 2026</b> <br>
+**Backend / Full‑Stack / Frontend**
 
 </div>
 
 ---
 
 ## About
-- **Looking for:** Graduation internship — **Backend / Full‑Stack / Frontend**
 - **Currently:** Intern at **HULO.ai**
 - **Interests:** ML · Frontend Development · Mobile Development · Fullstack Development
