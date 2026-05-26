@@ -1,6 +1,5 @@
 <!-- Profile README for coolstavo -->
 <!-- Design goals: modern, minimal, projects-first, subtle visuals, recruiter-friendly. -->
-
 <div align="center">
 
 # COOLSTAVO
@@ -11,7 +10,9 @@
 
 <a href="https://www.linkedin.com/in/gustavocostaaraujo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4166F5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://github.com/coolstavo/coolstavo/blob/main/Curriculum%20Vitae%20(EN)%20V3.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-4166F5?style=flat&logo=read-cv&logoColor=white" alt="Resume" /></a>&nbsp;&nbsp;
-<a href="mailto:gustavo5556@icloud.com"><img src="https://img.shields.io/badge/Email-4166F5?style=flat&logo=maildotru&logoColor=white" alt="Email" /></a>
+<a href="mailto:gustavo5556@icloud.com"><img src="https://img.shields.io/badge/Email-4166F5?style=flat&logo=maildotru&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://gustavoworks.com" target="_blank"><img src="https://img.shields.io/badge/Website-4166F5?style=flat&logo=safari&logoColor=white" alt="Website" /></a>
+
 <hr>
 
 <img alt="Open to" src="https://img.shields.io/badge/Open%20To-Internship-111827?style=flat&labelColor=111827&color=111827" />&nbsp;
@@ -21,12 +22,5 @@
 <hr>
 
 <b>Looking for:</b> Graduation internship starting <b>September 2026</b> <br>
-**Backend / Full‑Stack / Frontend**
 
 </div>
-
----
-
-## About
-- **Currently:** Intern at **HULO.ai**
-- **Interests:** ML · Frontend Development · Mobile Development · Fullstack Development
